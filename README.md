@@ -8,7 +8,7 @@ This is a movie recommendation system project developed by Akhila(https://github
 
 This movie recommendation system utilizes a combination of movie attributes, such as genre, keywords, cast, crew, and overview, to provide personalized movie recommendations. It uses cosine similarity to measure the similarity between movies and recommends the top 5 movies that have the highest similarity with a given movie.
 
-##Usage
+## Usage
 
 To use the movie recommendation system, follow these steps:
 
